@@ -1,5 +1,4 @@
 Responsive portfolio website built with [React/HTML/CSS/etc.], featuring my projects, technical skills, and career highlights
-# Run and deploy your AI Studio app
 
 ## ✨ Features
 - Responsive design (works on desktop & mobile)
