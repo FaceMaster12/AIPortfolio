@@ -28,7 +28,7 @@ const personalInfo = {
   linkedinUrl: 'https://www.linkedin.com/in/babyface-mokoena-62a796208',
   githubUrl: 'https://github.com/FaceMaster12',
   email: 'mokoenababyface105@gmail.com',
-  profileImageUrl: 'https://capeitinitiative-my.sharepoint.com/personal/babyface_mokoena_capaciti_org_za/Documents/Documents/WhatsApp%20Image%202025-09-15%20at%2008.42.03.jpeg' ,
+  profileImageUrl: './profile.jpeg' ,
 };
 
 // --- SVG ICONS ---
