@@ -1,9 +1,17 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
+Responsive portfolio website built with [React/HTML/CSS/etc.], featuring my projects, technical skills, and career highlights
 # Run and deploy your AI Studio app
 
+## ✨ Features
+- Responsive design (works on desktop & mobile)
+- Showcases projects with live demos and source code
+- About Me, Skills, and Contact sections
+- Built with modern web technologies
+
+---
+
+## 🛠 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Tools:** Google AI Studio, GitHub, VS Code  
 This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/drive/1n2H4koFqJuS14w0XG3ThydhrGYQzvFCA
