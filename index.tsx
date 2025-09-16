@@ -1,6 +1,7 @@
 
 import React, { useState, useEffect, useRef, useMemo } from 'react';
 import ReactDOM from 'react-dom/client';
+import profilePhoto from './photo/profile.jpeg';
 // FIX: Added Variants to the import to explicitly type the variants object.
 import { motion, useInView, AnimatePresence, Variants } from 'framer-motion';
 
@@ -28,7 +29,7 @@ const personalInfo = {
   linkedinUrl: 'https://www.linkedin.com/in/babyface-mokoena-62a796208',
   githubUrl: 'https://github.com/FaceMaster12',
   email: 'mokoenababyface105@gmail.com',
-  profileImageUrl: './profile.jpeg' ,
+  profileImageUrl:profilePhoto ,
 };
 
 // --- SVG ICONS ---
