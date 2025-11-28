@@ -28,4 +28,13 @@ It showcases projects, skills, and experience in a clean, professional, and inte
 ---
 
 ## 📦 Project Structure
-
+/
+├── index.html
+├── assets/
+│ ├── images/
+│ └── icons/
+├── styles/
+│ └── style.css
+├── scripts/
+│ └── main.ts
+├── README.md
